@@ -1,13 +1,18 @@
 <h1 align="center">Hi, i'm Axel Felix</h1>
 <h3 align="center">I'm student on Federal institute of Rio Grande do Sul, studying analyze and development of systems </h3>
+<h4> 💻 I'm looking a job!</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=axelvarreira" alt="axelvarreira" /> </p>
 
 <p> 
-  🌱 I’m currently learning the mern stack:
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongodb" width="80" height="20"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="60" height="25"/>
+  <ul>
+     <li>
+         🌱 I’m currently learning the mern stack:
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongodb" width="80" height="20"/>
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="60" height="25"/>
+    </li>
+   </ul>
 </p>
 
 - 📫 How to reach me **axel.felix.varreira2@gmail.com**

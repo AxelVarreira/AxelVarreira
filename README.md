@@ -1,6 +1,6 @@
 <h1 align="center">Hi, i'm Axel Felix</h1>
 <h3 align="center">I'm student on Federal institute of Rio Grande do Sul, studying analyze and development of systems </h3>
-<h4 align="center"> 💻 I'm looking a job!</h4>
+<h4 align="center"> 💻 I'm looking an intership!</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=axelvarreira" alt="axelvarreira" /> </p>
 
 <p> 

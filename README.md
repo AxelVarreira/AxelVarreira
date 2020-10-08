@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi, i'm Axel Felix</h1>
 <h3 align="center">I'm student on Federal institute of Rio Grande do Sul, studying analyze and development of systems </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=axelvarreira" alt="axelvarreira" /> </p>
@@ -14,7 +12,7 @@
 
 - 📫 How to reach me **axel.felix.varreira2@gmail.com**
 
-- ⚡ Fun fact **I'm good at Cooking and like to write**
+- ⚡ Fun fact: **I'm good at Cooking and i like to write**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=axelvarreira&show_icons=true" alt="Axel Felix"/>

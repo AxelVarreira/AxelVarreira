@@ -6,11 +6,7 @@
 <p> 
   <ul>
      <li>
-         🌱 I’m currently learning the mern stack:
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongodb" width="80" height="20"/>
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="60" height="25"/>
+         🌱 I’m currently learning the a lot of things XD
     </li>
    </ul>
 </p>

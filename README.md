@@ -5,7 +5,7 @@
 <p> 
   <ul>
      <li>
-         🌱 I’m currently learning the a lot of things XD
+         🌱 I’m currently learning a lot of things XD
     </li>
    </ul>
 </p>

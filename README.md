@@ -16,9 +16,10 @@
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=axelvarreira&show_icons=true&theme=onedark" alt="Axel Felix Varreira"/>  
-<a href="https://www.linkedin.com/in/axel-felix-varreira" target="blank"><br>
-  <img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384889.svg" alt="linkedin" width="40" height="40"/>  
-</a>
+<a href="https://www.linkedin.com/in/axel-felix-varreira" target="blank">
+  <br> 
+  Linkedin
+  </a>
 </p>
 
 <!--
